@@ -1,0 +1,13 @@
+To run the model: 
+  1. Add the MERCURY_sens_analysis folder to a zip file.
+  2. Start repast simphony.
+  3. "File" -> "Open Projects from File System..."
+  4. "Archive..." -> Open MERCURY_sens_analysis.zip -> "Finish"
+  5. In the package explorer to the left open /src/mercury.relogo/UserObserver.groovy
+  6. On line 316 and 1010, change PATH\\TO\\REPAST\\WORKSPACE\\ to your current eclipse workspace.
+  7. Press the dropdown run menu (should be the fifth icon on the right in the menu bar)
+  8. "Organize Favorites..." -> "Add..." -> Select "Bartch MERCURY Model" and "MERCURY Model" -> "OK"
+  (Sometimes these are shown multiple times, just choose one of them.)
+  9. Choose to run either "MERCURY Model" (i.e. a single instance) or "Batch MERCURY Model" and press "OK"
+  10. Choose your desired parameter settings.
+  11. The output can be found in the //output//outputParamaterSwee.csv file
