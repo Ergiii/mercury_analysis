@@ -10,4 +10,4 @@ To run the model:
   (Sometimes these are shown multiple times, just choose one of them.)
   9. Choose to run either "MERCURY Model" (i.e. a single instance) or "Batch MERCURY Model" and press "OK"
   10. Choose your desired parameter settings.
-  11. The output can be found in the //output//outputParamaterSwee.csv file.
+  11. The output can be found in the /output/outputParamaterSwee.csv file.
