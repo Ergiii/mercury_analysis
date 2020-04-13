@@ -1,0 +1,13 @@
+<repast.simphony.data2.engine.ConsoleSinkDescriptor simphonyVersion="2.6.0">
+  <name>printData</name>
+  <dataSet>printData</dataSet>
+  <delimiter>,</delimiter>
+  <format>LINE</format>
+  <sourceIds class="linked-hash-set">
+    <string>run</string>
+    <string>random_seed</string>
+    <string>outputDataParameterSweep</string>
+  </sourceIds>
+  <enabled>true</enabled>
+  <outputStream>OUT</outputStream>
+</repast.simphony.data2.engine.ConsoleSinkDescriptor>
